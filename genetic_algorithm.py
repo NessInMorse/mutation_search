@@ -1,7 +1,7 @@
 from random import randint
 
 population=30
-mutation_chance=100
+mutation_chance=10
 
 
 def getScores(s_weight,s_value,s_maxweight,s_gen):
